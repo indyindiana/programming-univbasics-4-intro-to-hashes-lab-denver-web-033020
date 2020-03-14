@@ -31,7 +31,7 @@ end
 
 def my_hash_creator(key, value)
   hash4 = {
-    (key):  value 
+    key => value 
   }
   return hash4
   # return a hash that includes the key and value parameters passed into this method
