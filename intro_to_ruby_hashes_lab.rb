@@ -14,9 +14,9 @@ def my_hash
 end
 
 def pioneer
-  name = "key"
+  key = ":name"
   hash2 = {
-    name: "Grace Hopper",
+    key => "Grace Hopper",
   }
   return hash2
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
