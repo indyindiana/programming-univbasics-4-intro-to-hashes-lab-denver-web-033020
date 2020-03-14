@@ -14,7 +14,7 @@ def my_hash
 end
 
 def pioneer
-  name = key
+  key = name
   hash2 = {
     :key => "Grace Hopper",
   }
